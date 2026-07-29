@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1957
+slug  : the-gradient-descent
+seal  : 1a32ed360724cd7b29c5812b151504bf3b2957a33e4106828389e5900921d871
+prev  : b3ea5f5532a981e5d26b85d9cdb0e331a5b5138e35dbe19f390ba56a81d98887
+link  : ffb0bc13aa16f1a5426ef580789656c5e49c60169efa6e74c6462bfbb2a6d06b
+head  : 8b69ac4e15e82a638897c83a9d8dfea764c7e34e17cad6dccbffa445d539e0a9
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
